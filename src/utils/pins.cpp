@@ -1,0 +1,12 @@
+const int BUTTON_1_PIN = 13;
+const int BUTTON_2_PIN = 12;
+const int BUTTON_3_PIN = 14;
+const int BUTTON_4_PIN = 27;
+const int BUTTON_5_PIN = 26;
+const int BUTTON_6_PIN = 25;
+const int BUTTON_7_PIN = 33;
+const int BUTTON_8_PIN = 32;
+const int BUTTON_9_PIN = 35;
+const int JOYSTICK_X_PIN = 4;
+const int JOYSTICK_Y_PIN = 2;
+const int JOYSTICK_BUTTON_PIN = 15;
